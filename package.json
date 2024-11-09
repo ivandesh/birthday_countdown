@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ivandesh.github.io/birthday-countdown",
-  "name": "birthday-countdown",
+  "homepage": "https://ivandesh.github.io/birthday_countdown",
+  "name": "birthday_countdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
