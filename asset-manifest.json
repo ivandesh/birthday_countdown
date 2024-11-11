@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/birthday_countdown/static/css/main.242e1b19.css",
-    "main.js": "/birthday_countdown/static/js/main.e37e9508.js",
+    "main.css": "/birthday_countdown/static/css/main.bd17eda2.css",
+    "main.js": "/birthday_countdown/static/js/main.20f2f575.js",
     "static/js/511.f84f108e.chunk.js": "/birthday_countdown/static/js/511.f84f108e.chunk.js",
+    "static/media/fireworks.gif": "/birthday_countdown/static/media/fireworks.4b32a0ad39e3454e761a.gif",
+    "static/media/scissors.png": "/birthday_countdown/static/media/scissors.2541a1da0ef2cee7c3cc.png",
     "static/media/monitor.png": "/birthday_countdown/static/media/monitor.70545070b3f789f9b17b.png",
+    "static/media/paper.png": "/birthday_countdown/static/media/paper.c138930eef047633501a.png",
+    "static/media/rock.png": "/birthday_countdown/static/media/rock.65a25a68b72869ae2662.png",
+    "static/media/handshake.png": "/birthday_countdown/static/media/handshake.85de75375eecf8e4a8d7.png",
     "index.html": "/birthday_countdown/index.html",
     "static/media/salt.svg": "/birthday_countdown/static/media/salt.3660fd542e36aa61a62db21a33ee23c9.svg",
-    "main.242e1b19.css.map": "/birthday_countdown/static/css/main.242e1b19.css.map",
-    "main.e37e9508.js.map": "/birthday_countdown/static/js/main.e37e9508.js.map",
+    "main.bd17eda2.css.map": "/birthday_countdown/static/css/main.bd17eda2.css.map",
+    "main.20f2f575.js.map": "/birthday_countdown/static/js/main.20f2f575.js.map",
     "511.f84f108e.chunk.js.map": "/birthday_countdown/static/js/511.f84f108e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.242e1b19.css",
-    "static/js/main.e37e9508.js"
+    "static/css/main.bd17eda2.css",
+    "static/js/main.20f2f575.js"
   ]
 }
