@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/birthday_countdown/static/css/main.69fd9fef.css",
-    "main.js": "/birthday_countdown/static/js/main.ee1aca98.js",
+    "main.js": "/birthday_countdown/static/js/main.e9165224.js",
     "static/js/511.f84f108e.chunk.js": "/birthday_countdown/static/js/511.f84f108e.chunk.js",
+    "static/media/cyber.wav": "/birthday_countdown/static/media/cyber.5ee80406d908aa3ff512.wav",
     "static/media/xp-bg.png": "/birthday_countdown/static/media/xp-bg.774570f8733ce285f5cf.png",
     "static/media/alisa1.jpg": "/birthday_countdown/static/media/alisa1.e1104fe466955ff71dbf.jpg",
     "static/media/alisa4.jpg": "/birthday_countdown/static/media/alisa4.9d7f902fd4df156ca254.jpg",
@@ -18,19 +19,23 @@
     "static/media/alisa6.jpg": "/birthday_countdown/static/media/alisa6.8c1c8a3b59e1eab1aaea.jpg",
     "static/media/alisa9.jpg": "/birthday_countdown/static/media/alisa9.872a9726a673fe8149da.jpg",
     "static/media/monitor.png": "/birthday_countdown/static/media/monitor.70545070b3f789f9b17b.png",
+    "static/media/move-tile.wav": "/birthday_countdown/static/media/move-tile.7c843f33911916b0068b.wav",
     "static/media/alisa11.jpg": "/birthday_countdown/static/media/alisa11.d423193588c59236df14.jpg",
+    "static/media/shut-down.mp3": "/birthday_countdown/static/media/shut-down.fddf00a60cb64d01ad11.mp3",
+    "static/media/light.wav": "/birthday_countdown/static/media/light.3613b5708fc357393381.wav",
     "static/media/paper.png": "/birthday_countdown/static/media/paper.c138930eef047633501a.png",
     "static/media/rock.png": "/birthday_countdown/static/media/rock.65a25a68b72869ae2662.png",
     "static/media/handshake.png": "/birthday_countdown/static/media/handshake.85de75375eecf8e4a8d7.png",
     "static/media/error-icon.png": "/birthday_countdown/static/media/error-icon.6015888bb0cb7988d043.png",
+    "static/media/error.mp3": "/birthday_countdown/static/media/error.eedd063230f8a8fa7c33.mp3",
     "index.html": "/birthday_countdown/index.html",
     "static/media/salt.svg": "/birthday_countdown/static/media/salt.3660fd542e36aa61a62db21a33ee23c9.svg",
     "main.69fd9fef.css.map": "/birthday_countdown/static/css/main.69fd9fef.css.map",
-    "main.ee1aca98.js.map": "/birthday_countdown/static/js/main.ee1aca98.js.map",
+    "main.e9165224.js.map": "/birthday_countdown/static/js/main.e9165224.js.map",
     "511.f84f108e.chunk.js.map": "/birthday_countdown/static/js/511.f84f108e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69fd9fef.css",
-    "static/js/main.ee1aca98.js"
+    "static/js/main.e9165224.js"
   ]
 }
