@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/birthday_countdown/static/css/main.69fd9fef.css",
-    "main.js": "/birthday_countdown/static/js/main.1e15d78c.js",
+    "main.css": "/birthday_countdown/static/css/main.68cfb4a8.css",
+    "main.js": "/birthday_countdown/static/js/main.c6631ec1.js",
     "static/js/511.f84f108e.chunk.js": "/birthday_countdown/static/js/511.f84f108e.chunk.js",
     "static/media/cyber.wav": "/birthday_countdown/static/media/cyber.5ee80406d908aa3ff512.wav",
     "static/media/xp-bg.png": "/birthday_countdown/static/media/xp-bg.774570f8733ce285f5cf.png",
@@ -29,13 +29,12 @@
     "static/media/error-icon.png": "/birthday_countdown/static/media/error-icon.6015888bb0cb7988d043.png",
     "static/media/error.mp3": "/birthday_countdown/static/media/error.eedd063230f8a8fa7c33.mp3",
     "index.html": "/birthday_countdown/index.html",
-    "static/media/salt.svg": "/birthday_countdown/static/media/salt.3660fd542e36aa61a62db21a33ee23c9.svg",
-    "main.69fd9fef.css.map": "/birthday_countdown/static/css/main.69fd9fef.css.map",
-    "main.1e15d78c.js.map": "/birthday_countdown/static/js/main.1e15d78c.js.map",
+    "main.68cfb4a8.css.map": "/birthday_countdown/static/css/main.68cfb4a8.css.map",
+    "main.c6631ec1.js.map": "/birthday_countdown/static/js/main.c6631ec1.js.map",
     "511.f84f108e.chunk.js.map": "/birthday_countdown/static/js/511.f84f108e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69fd9fef.css",
-    "static/js/main.1e15d78c.js"
+    "static/css/main.68cfb4a8.css",
+    "static/js/main.c6631ec1.js"
   ]
 }
